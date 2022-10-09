@@ -1,7 +1,7 @@
 /*
  ============================================================================
  Name        : clases.c
- Author      : 
+ Author      : kevin
  Version     :
  Copyright   : Your copyright notice
  Description : Hello World in C, Ansi-style
@@ -14,6 +14,6 @@
 int main(void) {
 
 	setbuf(stdout,NULL);
-	puts("!!!Hello World!!!"); /* prints !!!Hello World!!! */
+	printf("!!!A DARLE ATOMOS!!!");
 	return EXIT_SUCCESS;
 }
